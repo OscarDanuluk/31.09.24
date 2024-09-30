@@ -1,0 +1,12 @@
+.bg-box{
+    background: url(/lamp.png) repeat-x top/30px 60px ,
+    url(/hedgehog.webp) repeat-y left/ 20px 30px,
+    url(/grass.png) repeat-x bottom/220px 220px,
+    url(/donut.png) repeat-y right/30px 30px,
+    url(/dom.webp) no-repeat center green;
+    
+    border: 2px solid black;
+    width: 1000px;
+    height: 700px;
+    
+}
